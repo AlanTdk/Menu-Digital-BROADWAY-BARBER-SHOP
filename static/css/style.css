@@ -1,0 +1,23 @@
+/* Este archivo es para estilos personalizados adicionales que no se cubren con Tailwind CSS */
+
+/* Define las fuentes importadas de Google Fonts */
+body {
+    /* Fuente principal para el cuerpo del texto */
+    font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, .font-anton {
+    /* Fuente destacada para títulos y elementos especiales */
+    font-family: 'Anton', sans-serif;
+    letter-spacing: 0.05em; /* Añade un ligero espaciado entre letras para un look más estilizado */
+}
+
+/* Efecto de sombra sutil para las tarjetas de servicio */
+.shadow-lg {
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+/* Efecto de sombra más pronunciado para la promoción */
+.shadow-2xl {
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+}
