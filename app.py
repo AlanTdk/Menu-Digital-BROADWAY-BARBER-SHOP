@@ -25,7 +25,7 @@ def menu():
             "descripcion": "Cortes frescos y divertidos para los más pequeños."
         },
         {
-            "nombre": "Corte y Diseño de Barba",
+            "nombre": "Perfilado de Barba",
             "precio": 150,
             "imagen": "images/cortebarba.jpg", # Asegúrate de tener una imagen con este nombre
             "descripcion": "Define tu estilo con un arreglo de barba profesional."
